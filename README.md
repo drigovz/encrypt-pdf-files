@@ -1,2 +1,2 @@
-# encrypt_pdf_files
+# Encrypt PDF Files
 Encrypt PDF files with Python code
